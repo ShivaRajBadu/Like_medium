@@ -1,5 +1,6 @@
 # Medium like Website.
 This is a simple medium clone where bloggers can post their blogs, users can read and comment on the blog and also can share on social media.
+
 Stack used:
     -Framework: Next.js
     -Styling: Tailwind CSS
